@@ -44,5 +44,8 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/delete-old-files/issues"
+  },
+  "dependencies": {
+    "deffy": "^2.2.5"
   }
 }

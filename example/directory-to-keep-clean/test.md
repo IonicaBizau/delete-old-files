@@ -1,0 +1,1 @@
+Markdown files will not be deleted.
